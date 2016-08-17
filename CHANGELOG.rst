@@ -6,7 +6,9 @@ This document describes changes between each past release.
 4.1.0 (unreleased)
 ------------------
 
-- Nothing changed yet.
+**Bug fixes**
+
+- Fix concurrent writes in the memory backend (fixes #759)
 
 
 4.0.0 (2016-08-17)
