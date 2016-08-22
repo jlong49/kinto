@@ -6,6 +6,10 @@ This document describes changes between each past release.
 4.1.0 (unreleased)
 ------------------
 
+**New features**
+
+- Permissions endpoint (``GET /permissions``) can now be filtered, sorted and paginated.
+
 **Bug fixes**
 
 - Fix crash on permissions endpoint when history is enabled (#774)
